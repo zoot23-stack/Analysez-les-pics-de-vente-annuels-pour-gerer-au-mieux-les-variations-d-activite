@@ -4,6 +4,7 @@ FastAlim fournit les professionnels de la restauration en produits alimentaires 
 Ma mission consiste à comprendre les variations d’activité et à proposer une répartition des produits dans l’entrepôt adaptée à leurs comportements de vente.
 
 Problématique : comment l’analyse de l’évolution et de la saisonnalité des ventes peut-elle aider FastAlim à anticiper les variations d’activité et à organiser ses stocks ?
+[Consulter le notebook](<Notebook_Analyses des pics de ventes.ipynb>)
 
 ## Objectifs principaux
 1. Explorer et préparer les données de ventes.
