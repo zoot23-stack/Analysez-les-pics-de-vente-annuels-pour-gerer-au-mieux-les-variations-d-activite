@@ -6,6 +6,7 @@ Ma mission consiste à comprendre les variations d’activité et à proposer un
 Problématique : comment l’analyse de l’évolution et de la saisonnalité des ventes peut-elle aider FastAlim à anticiper les variations d’activité et à organiser ses stocks ?
 [Consulter le notebook](<Notebook_Analyses des pics de ventes.ipynb>)
 
+![Top5 produits](Top5_Volumes_Ventes.png)
 ## Objectifs principaux
 1. Explorer et préparer les données de ventes.
 2. Identifier les cinq produits les plus vendus en volume sur 4 ans.
