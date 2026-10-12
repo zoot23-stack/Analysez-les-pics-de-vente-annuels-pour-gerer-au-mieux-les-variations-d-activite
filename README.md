@@ -40,6 +40,8 @@ Aucune valeur manquante ni de ligne entièrement dupliquée détectée lors de l
 - Analyse visuelle de la saisonnalité : comparaison des évolutions sur les quatre années.
 - Boîtes à moustaches : comparaison des distributions par produit, année et mois.
 - Corrélation de Pearson : mesure des associations entre les volumes mensuels des produits du top 5.
+
+![Boîtes à moustaches_top produits](Distribution_Top5.png)
   
 ## Démarches d'analyses des données
 - Explorer les données : structure, dates, types, valeurs manquantes, doublons et volumes négatifs.
@@ -49,6 +51,7 @@ Aucune valeur manquante ni de ligne entièrement dupliquée détectée lors de l
 - Comparer les distributions : examiner les médianes, les dispersions et les valeurs atypiques.
 - Étudier les relations : calculer les corrélations et comparer les courbes par paire de produits.
 - Formuler les recommandations : traduire les profils observés en propositions de placement dans l’entrepôt.
+  
 ## Résultats finaux
 ### TOP5 des produits
 | Rang | Produit | Volume cumulé 2019-2022 |
@@ -67,6 +70,8 @@ Aucune valeur manquante ni de ligne entièrement dupliquée détectée lors de l
 | 3 | Kiwi / Tomate |	−0,87	| Forte relation négative |
 | 4 | Pomme / Banane |	0,53 | Relation positive modérée |
 | 5 | Pomme / Tomate |	0,34 | Relation positive plus faible |
+
+![Correlations](Correlations_Top5.png)
 
 ## Recommandations logistiques
 1. Rapprocher les zones de la tomate et de l’abricot, dont les périodes de forte demande sont similaires, afin de faciliter la préparation et le réapprovisionnement. Le notebook envisage également un rapprochement pomme/tomate, avec une similarité moins forte.
