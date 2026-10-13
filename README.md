@@ -73,9 +73,6 @@ Aucune valeur manquante ni de ligne entièrement dupliquée détectée lors de l
 
 ![Correlations](Correlations_Top5.png)
 
-## Recommandations logistiques
-1. Rapprocher les zones de la tomate et de l’abricot, dont les périodes de forte demande sont similaires, afin de faciliter la préparation et le réapprovisionnement. Le notebook envisage également un rapprochement pomme/tomate, avec une similarité moins forte.
-2. Placer le kiwi dans une zone différente de celles de la tomate et de l’abricot, en raison de sa saisonnalité opposée.
 ## Limites de l’étude
 - L’étude décrit les ventes observées sur 2019–2022, elle ne produit pas de prévisions chiffrées des ventes futures.
 - Les corrélations ne démontrent pas une relation causale ni une présence simultanée des produits dans les mêmes commandes.
